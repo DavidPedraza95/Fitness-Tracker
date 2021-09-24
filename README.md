@@ -46,10 +46,10 @@
   <ur>
 
   ## 📈Test📈
-  NodeJS (dependencies: express, mongoose, morgan)
-  MongoDB, MongoDB Atlas
-  Robo 3T
-  Heroku
+  - NodeJS (dependencies: express, mongoose, morgan)
+  - MongoDB, MongoDB Atlas
+  - Robo 3T
+  - Heroku
   <ur>
     
     
